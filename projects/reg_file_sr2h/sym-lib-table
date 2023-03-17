@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "_connector")(type "Legacy")(uri "C:/projects/cpu/kicad/symbols/connector.lib")(options "")(descr "")(disabled))
+  (lib (name "_semiconductor")(type "Legacy")(uri "C:/projects/cpu/kicad/symbols/semiconductor.lib")(options "")(descr ""))
+  (lib (name "connector")(type "KiCad")(uri "C:/projects/cpu/kicad/symbols/connector.kicad_sym")(options "")(descr ""))
+  (lib (name "semiconductor")(type "KiCad")(uri "C:/projects/cpu/kicad/symbols/semiconductor.kicad_sym")(options "")(descr ""))
+  (lib (name "discrete")(type "KiCad")(uri "C:/projects/cpu/kicad/symbols/discrete.kicad_sym")(options "")(descr ""))
+  (lib (name "switch")(type "KiCad")(uri "C:/projects/cpu/kicad/symbols/switch.kicad_sym")(options "")(descr ""))
+)
